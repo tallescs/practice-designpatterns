@@ -4,7 +4,7 @@ Part of daily plan for studying Design Patterns.
 Based on [coding-interview-university](https://github.com/tallescs/coding-interview-university#design-patterns), the choosen patterns are:
 - [ ] Creational:
     - [ ] factory, abstract factory
-    - [ ] singleton
+    - [x] singleton
     - [ ] prototype
 - [ ] Structural:
     - [ ] adapter
